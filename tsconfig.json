@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    // Project
+    "outDir": "dist/",
+    "declaration": true,
+    "sourceMap": true,
+    "moduleResolution": "node16",
+
+    // Language
+    "target": "es2020",
+    "module": "es2020",
+
+    // Type Checking
+    "skipLibCheck": true
+  },
+  "include": ["./src/"]
+}

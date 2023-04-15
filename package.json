@@ -1,0 +1,20 @@
+{
+  "name": "objection-reproduce-2277",
+  "version": "0.0.0",
+  "description": "A reproduction for https://github.com/Vincit/objection.js/issues/2277",
+  "license": "MIT",
+  "author": {
+    "name": "Arno Hilke",
+    "email": "arno.hilke@tum.de"
+  },
+  "scripts": {
+    "build": "tsc -b"
+  },
+  "dependencies": {
+    "objection": "^3.0.2",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  }
+}
