@@ -11,7 +11,7 @@
     "build": "tsc -b"
   },
   "dependencies": {
-    "objection": "^3.0.2",
+    "objection": "github:Vincit/objection.js",
     "typescript": "^5.0.4"
   },
   "devDependencies": {
